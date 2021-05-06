@@ -135,6 +135,7 @@ nav{
     opacity: 1;
     transition: opacity 2s;
     text-shadow: 0px 0px 5px #848484;
+    font-weight: bold;
 }
 #zap{
     position: fixed;
